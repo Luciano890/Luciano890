@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chavarria890lc@gmail.com**
 
-- ⚡ Fun fact **Mathematics, chess, hiking, and cycling**
+- ⚡ Fun fact **Mathematics, chess, hiking and cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
