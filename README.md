@@ -31,3 +31,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciano890&show_icons=true&locale=en&theme=dark" alt="luciano890" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano890&&theme=dark" alt="luciano890" /></p>
+
+<br>
+
+<p align = center>
+<img src="https://c.tenor.com/5wxFV5oUGbcAAAAi/hello-goodbye.gif" alt=joke width="200">
+</p>
