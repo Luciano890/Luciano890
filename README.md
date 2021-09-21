@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
   , I'm Luciano
 </h1>
-<h3 align="center">A passionate backend developer from Colombia, I focus mainly on software development and search for efficient technological alternatives with the use of algorithms and programming paradigms. I like to acquire knowledge in a self-taught in the fields of science and computer science.</h3>
+<h3 align="center">A passionate backend developer from Colombia.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luciano890&label=Profile%20views&color=0e75b6&style=flat" alt="luciano890" /> </p>
 
